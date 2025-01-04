@@ -1,4 +1,4 @@
-export const munaqasyahData = {
+const munaqasyahData = {
   "results": [
     {
       "nama": "GUSTI KHALID RAHMAN SADI'",
@@ -4259,4 +4259,6 @@ export const munaqasyahData = {
     }
     ]
 };
+
+window.munaqasyahData = munaqasyahData;
 
