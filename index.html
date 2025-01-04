@@ -1,0 +1,518 @@
+<!DOCTYPE html><head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f7fa;
+    }
+    
+    .site-header {
+      background: #800000;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      padding: 15px 20px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .site-header .logo {
+      width: 50px;
+      height: 50px;
+      margin-right: 20px;
+    }
+
+    .site-header .header-text {
+      text-align: center;
+      flex-grow: 1;
+    }
+
+    .site-header h1 {
+      margin: 0;
+      font-size: 24px;
+    }
+
+    .site-header p {
+      margin: 5px 0 0;
+      font-size: 14px;
+    }
+
+    .container {
+      max-width: 1000px; 
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    .header {
+      background: #1a2f4d;
+      color: white;
+      padding: 20px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+
+    .header h1 {
+      margin: 0;
+    }
+
+    .search-bar {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+
+    .search-bar input {
+      flex: 1;
+      padding: 12px;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      font-size: 14px;
+    }
+
+    .search-bar button {
+      background: #2c4a6f;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    .search-bar button:hover {
+      background: #1a2f4d;
+    }
+
+    .table-wrapper {
+      background: white;
+      border-radius: 8px;
+      padding: 0px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      overflow-x: auto;
+      position: relative;
+      z-index: 1;
+    }
+
+    .results-table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 800px;
+      margin-bottom: 0;
+      position: relative;
+      z-index: 1;
+    }
+
+    .results-table.table {
+      --bs-table-bg: transparent;
+      margin-bottom: 0;
+    }
+
+    .results-table th {
+      background: #2c4a6f !important;
+      color: white !important;
+      padding: 10px !important;
+      text-align: center;
+      position: sticky !important;
+      top: 0;
+      z-index: 2;
+      border-bottom: none !important;
+    }
+
+    .results-table td {
+      padding: 12px !important;
+      border-bottom: 1px solid #eee !important;
+      background: white;
+      vertical-align: middle !important;
+      position: relative;
+      cursor: default;
+    }
+
+    .results-table td:not(:first-child) {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 200px;
+    }
+
+    .results-table td:first-child {
+      white-space: normal;
+      word-wrap: break-word;
+      min-width: 200px;
+      max-width: 300px;
+    }
+
+    .results-table td:not(:first-child):hover {
+      overflow: visible;
+      white-space: normal;
+      word-break: break-word;
+      z-index: 1;
+      position: relative;
+      background: #fff !important;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      max-width: none;
+    }
+
+    .results-table td:hover {
+      overflow: visible;
+      white-space: normal;
+      word-break: break-word;
+      z-index: 1;
+      position: relative;
+      background: #fff !important;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      max-width: none;
+    }
+
+    .results-table th:nth-child(1),
+    .results-table td:nth-child(1) {
+      position: sticky !important;
+      left: 0;
+      background: white !important;
+      z-index: 3;
+      box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+    }
+
+    .results-table th:nth-child(1) {
+      background: #2c4a6f !important;
+      z-index: 4;
+    }
+
+    .results-table tr:hover td:nth-child(1) {
+      background-color: #f8f9ff !important;
+    }
+
+    .results-table tr:hover td {
+      background-color: #f8f9ff !important;
+    }
+
+    .status {
+      padding: 6px 12px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 500;
+      display: inline-block;
+    }
+
+    .status.melanjutkan {
+      background: #e8f5e9;
+      color: #2e7d32;
+    }
+
+    .status.mengulang {
+      background: #ffebee;
+      color: #c62828;
+    }
+
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+      margin-top: 20px;
+      flex-wrap: wrap;
+    }
+
+    .pagination button {
+      min-width: 40px;
+      height: 40px;
+      padding: 0 12px;
+      border: 2px solid #2c4a6f;
+      background: white;
+      border-radius: 8px;
+      color: #2c4a6f;
+      font-weight: 500;
+      font-size: 14px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .pagination button:hover:not(:disabled) {
+      background: #2c4a6f;
+      color: white;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(44, 74, 111, 0.2);
+    }
+
+    .pagination button.active {
+      background: #2c4a6f;
+      color: white;
+      border-color: #2c4a6f;
+    }
+
+    .pagination button:disabled {
+      background: #f5f5f5;
+      border-color: #ddd;
+      color: #999;
+      cursor: not-allowed;
+    }
+
+    @media screen and (max-width: 600px) {
+      .pagination {
+        gap: 4px;
+      }
+      
+      .pagination button {
+        min-width: 36px;
+        height: 36px;
+        padding: 0 8px;
+        font-size: 13px;
+      }
+    }
+
+    .site-footer {
+      background: #800000;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+      margin-top: 40px;
+    }
+
+    .site-footer p {
+      margin: 0;
+      font-size: 14px;
+    }
+
+    .site-footer .contact {
+      margin-top: 10px;
+      font-size: 12px;
+    }
+
+    @media screen and (max-width: 600px) {
+      .container {
+        padding: 10px;
+      }
+      
+      .search-bar {
+        flex-direction: column;
+      }
+      
+      .search-bar button {
+        width: 100%;
+      }
+
+      .pagination {
+        flex-wrap: wrap;
+      }
+
+      .site-header h1 {
+        font-size: 20px;
+      }
+
+      .site-header p {
+        font-size: 12px;
+      }
+    }
+
+    .pagination-dots {
+      margin: 0 4px;
+      color: #2c4a6f;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <img src="img/logo.jpg" alt="Rumah Tahfidz Saijaan Logo" class="logo">
+    <div class="header-text">
+      <h1>Rumah Tahfidz Saijaan</h1>
+      <p>Mengaji & Menghafal Al-Qur'an</p>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="header">
+      <h1>Riwayat Hasil Munaqasyah</h1>
+    </div>
+
+    <div class="search-bar">
+      <input type="text" placeholder="Cari berdasarkan nama santri..." minlength="3">
+      <button>Cari</button>
+    </div>
+
+    <div class="table-wrapper">
+      <table class="results-table table table-hover">
+        <thead>
+          <tr>
+            <th>Nama Santri</th>
+            <th>Kelas Awal</th>
+            <th>Kelas Baru</th>
+            <th>Pembimbing Awal</th>
+            <th>Pembimbing Baru</th>
+            <th>Predikat</th>
+            <th>Periode</th>
+          </tr>
+        </thead>
+        <tbody id="resultsBody">
+          <!-- Table body will be populated by JavaScript -->
+        </tbody>
+      </table>
+    </div>
+
+    <div class="pagination">
+      <!-- Pagination will be populated by JavaScript -->
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <p> 2023 Rumah Tahfidz Saijaan - Semua Hak Dilindungi</p>
+    <div class="contact">
+      <p>Alamat: Jl. Brigjend H. Hasan Basri Desa Semayap</p>
+      <p>Email: rumahtahfidzsaijaan@gmail.com</p>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script type="module">
+      import { munaqasyahData } from '../js/munaqasyah.js';
+    
+
+    let currentPage = 1;
+    const itemsPerPage = 10;
+
+    function getPeriodValue(period) {
+      const [month, year] = period.split(' ').filter(p => p !== '-');
+      const monthMap = {
+        'Jan': 1,
+        'Apr': 4,
+        'Jul': 7,
+        'Okt': 10
+      };
+      return parseInt(year) * 12 + monthMap[month];
+    }
+
+    function populateTable(data, page = 1) {
+      const tbody = document.getElementById('resultsBody');
+      tbody.innerHTML = '';
+      
+      // Sort data by period (oldest first)
+      const sortedData = {
+        results: [...data.results].sort((a, b) => {
+          return getPeriodValue(a.periode) - getPeriodValue(b.periode);
+        })
+      };
+      
+      const start = (page - 1) * itemsPerPage;
+      const end = start + itemsPerPage;
+      const paginatedItems = sortedData.results.slice(start, end);
+      
+      paginatedItems.forEach(item => {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+          <td>${item.nama}</td>
+          <td>${item.kelasAwal}</td>
+          <td>${item.kelasBaru}</td>
+          <td>${item.pembimbingAwal}</td>
+          <td>${item.pembimbingBaru}</td>
+          <td><span class="status ${item.predikat.toLowerCase()}">${item.predikat}</span></td>
+          <td>${item.periode}</td>
+        `;
+        tbody.appendChild(row);
+      });
+
+      updatePagination(data.results.length);
+    }
+
+    function updatePagination(totalItems) {
+      const paginationContainer = document.querySelector('.pagination');
+      const totalPages = Math.ceil(totalItems / itemsPerPage);
+      
+      // Menentukan range halaman yang akan ditampilkan
+      let startPage = Math.max(1, currentPage - 2);
+      let endPage = Math.min(totalPages, startPage + 4);
+      
+      // Menyesuaikan startPage jika endPage terlalu dekat dengan totalPages
+      if (endPage - startPage < 4) {
+        startPage = Math.max(1, endPage - 4);
+      }
+
+      let paginationHTML = `
+        <button ${currentPage === 1 ? 'disabled' : ''} onclick="changePage('prev')">Previous</button>
+      `;
+
+      // Tambahkan tombol halaman pertama jika tidak termasuk dalam range
+      if (startPage > 1) {
+        paginationHTML += `
+          <button onclick="changePage(1)">1</button>
+          ${startPage > 2 ? '<span class="pagination-dots">...</span>' : ''}
+        `;
+      }
+
+      // Tambahkan tombol halaman dalam range
+      for (let i = startPage; i <= endPage; i++) {
+        paginationHTML += `
+          <button class="${currentPage === i ? 'active' : ''}" onclick="changePage(${i})">${i}</button>
+        `;
+      }
+
+      // Tambahkan tombol halaman terakhir jika tidak termasuk dalam range
+      if (endPage < totalPages) {
+        paginationHTML += `
+          ${endPage < totalPages - 1 ? '<span class="pagination-dots">...</span>' : ''}
+          <button onclick="changePage(${totalPages})">${totalPages}</button>
+        `;
+      }
+
+      paginationHTML += `
+        <button ${currentPage === totalPages ? 'disabled' : ''} onclick="changePage('next')">Next</button>
+      `;
+
+      paginationContainer.innerHTML = paginationHTML;
+    }
+
+    // Definisikan changePage di window object agar bisa diakses dari HTML
+    window.changePage = function(page) {
+      const totalPages = Math.ceil(munaqasyahData.results.length / itemsPerPage);
+      
+      if (page === 'prev') {
+        currentPage = Math.max(1, currentPage - 1);
+      } else if (page === 'next') {
+        currentPage = Math.min(totalPages, currentPage + 1);
+      } else {
+        currentPage = page;
+      }
+      
+      const filteredData = searchInput.value.length >= 3 ? 
+        {
+          results: munaqasyahData.results.filter(item => 
+            item.nama.toLowerCase().includes(searchInput.value.toLowerCase())
+          )
+        } : munaqasyahData;
+      
+      populateTable(filteredData, currentPage);
+    }
+
+    const searchInput = document.querySelector('.search-bar input');
+    const searchButton = document.querySelector('.search-bar button');
+
+    function handleSearch() {
+      const searchTerm = searchInput.value.toLowerCase();
+      currentPage = 1;
+      
+      if (searchTerm.length >= 3) {
+        const filteredData = {
+          results: munaqasyahData.results.filter(item => 
+            item.nama.toLowerCase().includes(searchTerm)
+          )
+        };
+        populateTable(filteredData, currentPage);
+      } else if (searchTerm.length === 0) {
+        populateTable(munaqasyahData, currentPage);
+      }
+    }
+
+    searchButton.addEventListener('click', handleSearch);
+    searchInput.addEventListener('input', handleSearch);
+
+    // Initial population
+    populateTable(munaqasyahData, currentPage);
+  </script>
+</body></html>
