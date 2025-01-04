@@ -373,144 +373,155 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
   <script src="js/munaqasyah.js"></script>
   <script>
-    let currentPage = 1;
-    const itemsPerPage = 10;
-
-    function getPeriodValue(period) {
-      const [month, year] = period.split(' ').filter(p => p !== '-');
-      const monthMap = {
-        'Jan': 1,
-        'Apr': 4,
-        'Jul': 7,
-        'Okt': 10
-      };
-      return parseInt(year) * 12 + monthMap[month];
-    }
-
-    function populateTable(data, page = 1) {
-      const tbody = document.getElementById('resultsBody');
-      tbody.innerHTML = '';
+    document.addEventListener('DOMContentLoaded', function() {
+      let currentPage = 1;
+      const itemsPerPage = 10;
       
-      // Sort data by period (oldest first)
-      const sortedData = {
-        results: [...data.results].sort((a, b) => {
-          return getPeriodValue(a.periode) - getPeriodValue(b.periode);
-        })
-      };
-      
-      const start = (page - 1) * itemsPerPage;
-      const end = start + itemsPerPage;
-      const paginatedItems = sortedData.results.slice(start, end);
-      
-      paginatedItems.forEach(item => {
-        const row = document.createElement('tr');
-        row.innerHTML = `
-          <td>${item.nama}</td>
-          <td>${item.kelasAwal}</td>
-          <td>${item.kelasBaru}</td>
-          <td>${item.pembimbingAwal}</td>
-          <td>${item.pembimbingBaru}</td>
-          <td><span class="status ${item.predikat.toLowerCase()}">${item.predikat}</span></td>
-          <td>${item.periode}</td>
-        `;
-        tbody.appendChild(row);
-      });
-
-      updatePagination(data.results.length);
-    }
-
-    function updatePagination(totalItems) {
-      const paginationContainer = document.querySelector('.pagination');
-      const totalPages = Math.ceil(totalItems / itemsPerPage);
-      
-      // Menentukan range halaman yang akan ditampilkan
-      let startPage = Math.max(1, currentPage - 2);
-      let endPage = Math.min(totalPages, startPage + 4);
-      
-      // Menyesuaikan startPage jika endPage terlalu dekat dengan totalPages
-      if (endPage - startPage < 4) {
-        startPage = Math.max(1, endPage - 4);
-      }
-
-      let paginationHTML = `
-        <button ${currentPage === 1 ? 'disabled' : ''} onclick="changePage('prev')">Previous</button>
-      `;
-
-      // Tambahkan tombol halaman pertama jika tidak termasuk dalam range
-      if (startPage > 1) {
-        paginationHTML += `
-          <button onclick="changePage(1)">1</button>
-          ${startPage > 2 ? '<span class="pagination-dots">...</span>' : ''}
-        `;
-      }
-
-      // Tambahkan tombol halaman dalam range
-      for (let i = startPage; i <= endPage; i++) {
-        paginationHTML += `
-          <button class="${currentPage === i ? 'active' : ''}" onclick="changePage(${i})">${i}</button>
-        `;
-      }
-
-      // Tambahkan tombol halaman terakhir jika tidak termasuk dalam range
-      if (endPage < totalPages) {
-        paginationHTML += `
-          ${endPage < totalPages - 1 ? '<span class="pagination-dots">...</span>' : ''}
-          <button onclick="changePage(${totalPages})">${totalPages}</button>
-        `;
-      }
-
-      paginationHTML += `
-        <button ${currentPage === totalPages ? 'disabled' : ''} onclick="changePage('next')">Next</button>
-      `;
-
-      paginationContainer.innerHTML = paginationHTML;
-    }
-
-    // Definisikan changePage di window object agar bisa diakses dari HTML
-    window.changePage = function(page) {
-      const totalPages = Math.ceil(munaqasyahData.results.length / itemsPerPage);
-      
-      if (page === 'prev') {
-        currentPage = Math.max(1, currentPage - 1);
-      } else if (page === 'next') {
-        currentPage = Math.min(totalPages, currentPage + 1);
-      } else {
-        currentPage = page;
-      }
-      
-      const filteredData = searchInput.value.length >= 3 ? 
-        {
-          results: munaqasyahData.results.filter(item => 
-            item.nama.toLowerCase().includes(searchInput.value.toLowerCase())
-          )
-        } : munaqasyahData;
-      
-      populateTable(filteredData, currentPage);
-    }
-
-    const searchInput = document.querySelector('.search-bar input');
-    const searchButton = document.querySelector('.search-bar button');
-
-    function handleSearch() {
-      const searchTerm = searchInput.value.toLowerCase();
-      currentPage = 1;
-      
-      if (searchTerm.length >= 3) {
-        const filteredData = {
-          results: munaqasyahData.results.filter(item => 
-            item.nama.toLowerCase().includes(searchTerm)
-          )
+      function getPeriodValue(period) {
+        const [month, year] = period.split(' ').filter(p => p !== '-');
+        const monthMap = {
+          'Jan': 1,
+          'Apr': 4,
+          'Jul': 7,
+          'Okt': 10
         };
-        populateTable(filteredData, currentPage);
-      } else if (searchTerm.length === 0) {
-        populateTable(munaqasyahData, currentPage);
+        return parseInt(year) * 12 + monthMap[month];
       }
-    }
 
-    searchButton.addEventListener('click', handleSearch);
-    searchInput.addEventListener('input', handleSearch);
+      function populateTable(data = window.munaqasyahData, page = 1) {
+        if (!data || !data.results) {
+          console.error('Data tidak tersedia');
+          return;
+        }
 
-    // Initial population
-    populateTable(munaqasyahData, currentPage);
+        const tbody = document.getElementById('resultsBody');
+        tbody.innerHTML = '';
+        
+        // Sort data by period (oldest first)
+        const sortedData = {
+          results: [...data.results].sort((a, b) => {
+            return getPeriodValue(a.periode) - getPeriodValue(b.periode);
+          })
+        };
+        
+        const start = (page - 1) * itemsPerPage;
+        const end = start + itemsPerPage;
+        const paginatedItems = sortedData.results.slice(start, end);
+        
+        paginatedItems.forEach(item => {
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td>${item.nama}</td>
+            <td>${item.kelasAwal}</td>
+            <td>${item.kelasBaru}</td>
+            <td>${item.pembimbingAwal}</td>
+            <td>${item.pembimbingBaru}</td>
+            <td><span class="status ${item.predikat.toLowerCase()}">${item.predikat}</span></td>
+            <td>${item.periode}</td>
+          `;
+          tbody.appendChild(row);
+        });
+
+        updatePagination(data.results.length);
+      }
+
+      function updatePagination(totalItems) {
+        const paginationContainer = document.querySelector('.pagination');
+        const totalPages = Math.ceil(totalItems / itemsPerPage);
+        
+        // Menentukan range halaman yang akan ditampilkan
+        let startPage = Math.max(1, currentPage - 2);
+        let endPage = Math.min(totalPages, startPage + 4);
+        
+        // Menyesuaikan startPage jika endPage terlalu dekat dengan totalPages
+        if (endPage - startPage < 4) {
+          startPage = Math.max(1, endPage - 4);
+        }
+
+        let paginationHTML = `
+          <button ${currentPage === 1 ? 'disabled' : ''} onclick="changePage('prev')">Previous</button>
+        `;
+
+        // Tambahkan tombol halaman pertama jika tidak termasuk dalam range
+        if (startPage > 1) {
+          paginationHTML += `
+            <button onclick="changePage(1)">1</button>
+            ${startPage > 2 ? '<span class="pagination-dots">...</span>' : ''}
+          `;
+        }
+
+        // Tambahkan tombol halaman dalam range
+        for (let i = startPage; i <= endPage; i++) {
+          paginationHTML += `
+            <button class="${currentPage === i ? 'active' : ''}" onclick="changePage(${i})">${i}</button>
+          `;
+        }
+
+        // Tambahkan tombol halaman terakhir jika tidak termasuk dalam range
+        if (endPage < totalPages) {
+          paginationHTML += `
+            ${endPage < totalPages - 1 ? '<span class="pagination-dots">...</span>' : ''}
+            <button onclick="changePage(${totalPages})">${totalPages}</button>
+          `;
+        }
+
+        paginationHTML += `
+          <button ${currentPage === totalPages ? 'disabled' : ''} onclick="changePage('next')">Next</button>
+        `;
+
+        paginationContainer.innerHTML = paginationHTML;
+      }
+
+      // Definisikan changePage di window object agar bisa diakses dari HTML
+      window.changePage = function(page) {
+        const totalPages = Math.ceil(window.munaqasyahData.results.length / itemsPerPage);
+        
+        if (page === 'prev') {
+          currentPage = Math.max(1, currentPage - 1);
+        } else if (page === 'next') {
+          currentPage = Math.min(totalPages, currentPage + 1);
+        } else {
+          currentPage = page;
+        }
+        
+        const filteredData = searchInput.value.length >= 3 ? 
+          {
+            results: window.munaqasyahData.results.filter(item => 
+              item.nama.toLowerCase().includes(searchInput.value.toLowerCase())
+            )
+          } : window.munaqasyahData;
+        
+        populateTable(filteredData, currentPage);
+      }
+
+      const searchInput = document.querySelector('.search-bar input');
+      const searchButton = document.querySelector('.search-bar button');
+
+      function handleSearch() {
+        const searchTerm = searchInput.value.toLowerCase();
+        currentPage = 1;
+        
+        if (searchTerm.length >= 3) {
+          const filteredData = {
+            results: window.munaqasyahData.results.filter(item => 
+              item.nama.toLowerCase().includes(searchTerm)
+            )
+          };
+          populateTable(filteredData, currentPage);
+        } else if (searchTerm.length === 0) {
+          populateTable(window.munaqasyahData, currentPage);
+        }
+      }
+
+      searchButton.addEventListener('click', handleSearch);
+      searchInput.addEventListener('input', handleSearch);
+
+      // Tunggu sampai data tersedia sebelum menginisialisasi tabel
+      if (window.munaqasyahData) {
+        populateTable(window.munaqasyahData, currentPage);
+      } else {
+        console.error('Data munaqasyah tidak tersedia');
+      }
+    });
   </script>
 </body></html>
