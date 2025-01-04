@@ -1,4 +1,4 @@
-const munaqasyahData = {
+window.munaqasyahData = {
   results: [
     {
       "nama": "GUSTI KHALID RAHMAN SADI'",
@@ -4260,5 +4260,4 @@ const munaqasyahData = {
     ]
 };
 
-window.munaqasyahData = munaqasyahData;
 
