@@ -1,5 +1,5 @@
 const munaqasyahData = {
-  "results": [
+  results: [
     {
       "nama": "GUSTI KHALID RAHMAN SADI'",
       "pembimbingAwal": "USTADZAH DINDA",
