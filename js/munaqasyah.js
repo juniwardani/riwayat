@@ -1,2030 +1,2093 @@
 window.munaqasyahData = {
   results: [
-    {
-      "nama": "GUSTI KHALID RAHMAN SADI'",
-      "pembimbingAwal": "USTADZAH DINDA",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "SYAHILA AZMY",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "AKIFAH NAYLA NURHIJRAH",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ALMIRA ZHAFIRA",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "FAUZA NUR RIZKY",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID III",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "RULITA AZZAHRA",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. ABYAN ARJUNA PASURA ",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD DZIKRI BADZILA",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "NAYSILLA NUR MAYDINI",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD MIRZA ALIANDRA",
-      "pembimbingAwal": "USTADZAH DINDA",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "RAYA NOVITA SARI",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD MAHDI YUSUF",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD AZKA RANENDRA",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID III",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "NUR AULIA SAFITRI",
-      "pembimbingAwal": "USTADZAH DINDA",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "KHUMAIRA PUTRI ASY'ARI      ",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "RAISYA NUR AQIFA NAYLA",
-      "pembimbingAwal": "USTADZ SYARIF",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID III",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "JIHAN MAULIDA AZKIA",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID V",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "AKHMAD HABIBIE",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID V",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "FAUZIAH",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID V",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD ALFAT KHAIRY",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "HALIFA AISYABILLAH",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD ALZHAFRAN FARDILA",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. REZA EFANSYAH",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "SYAFIRA ALFATHUNNISA",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID V",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "KIOSI ALTAF",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID V",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD KHALIQ ALKHALIFY",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID V",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ZHAFIRA RASYIFA SALWA",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID V",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD FARIS RAMADHAN",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD HUD AR RAYYAN",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "JUNI WARDANI",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ZULFA HUMAIRA",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZ SYARIF",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD RAIHAN HAFIZH",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZ SYARIF",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "NADA NURANI ALIANSYAH",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "USTADZ SYARIF",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "AGHNINA CARIESYA SIBARANI",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "USTADZ SYARIF",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "RUWAIDA FATIMAH RAHMADANI",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "USTADZ SYARIF",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "INDRA LESMANA",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "USTADZ SYARIF",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "NADHIRA IMADINA ADIBA",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "USTADZ SYARIF",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "RAIHAN FERDIAN",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "USTADZ SYARIF",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. IQRAM SYARIF",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "USTADZ SYARIF",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ARSY PUTRA FIRMANSYAH",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "USTADZ SYARIF",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "FAJRIANSYAH",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "USTADZ SYARIF",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "NAZIA ARSYIFA",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "USTADZ SYARIF",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "FAQIH GHANI KHAIRI",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "USTADZ SYARIF",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "SIRHAN FIKRI ROSIDI",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "USTADZ SYARIF",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ALYA IMANI",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZ SYARIF",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "AYSHA NABILA PRANTAU",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MAULANA MALIK IBRAHIM",
-      "pembimbingAwal": "USTADZAH DINDA",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ALMAIRA NURFAUZIAH",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "HAFIZAH NUR AULIA",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. HAFIZH FATURRAHMAN",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ANDI ARSYILA HUMAIRA",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. ALI ZABER",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID III",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "REYNA AURELIA",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "FATIA AULIA ANNISA",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID III",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "RANGGA FARID RIZQULLAH",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "RENDRA MAHARDIKA",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID III",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. AFKAR PRATAMA",
-      "pembimbingAwal": "USTADZAH DINDA",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD RAYHAN",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID III",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ABDU RAHDIKA NAHRY",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD ARKHA AL FAIRUZ",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "AHMAD AL-FATIH NUR ADABY",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "DHAFITHA ZAYDA ALWI",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID QURAN",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ZAINAL ILMI",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID QURAN",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "FATIH YASIR MUBAROK",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID QURAN",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "SITI AISYAH",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID QURAN",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "AYSHA RAMADANI",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID QURAN",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ALFARIZKY MELAN PRATAMA",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID QURAN",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD HAIKAL BAGUS",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID QURAN",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD AL FATIH",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID QURAN",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "KEYRA ANDITA BALQIS",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID QURAN",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "AISYAH AFIFA A.",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID QURAN",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD AKBAR SAFARUDIN",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID QURAN",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ELSA RAIDA RAHMAWATI",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID QURAN",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "SITI ALYA HUMAIRO",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID QURAN",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD FIKRI",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID QURAN",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD RAFKA FAIZAR",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID QURAN",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD RASYID FAUZI",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZ TAHMID",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID QURAN",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. SULTHAN MALIK",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID III",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD TSAQIB HERSYA",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID III",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD NENO HERDIANA",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "BILQIS KHAIRUNNISA",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID III",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "HANIA SYAKIRA",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID III",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. RIFDHIL ARHAMY",
-      "pembimbingAwal": "USTADZAH DINDA",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD ADEB AL GAZALI",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "QONITA HANIFA ALMAHIRA",
-      "pembimbingAwal": "USTADZ SYARIF",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID III",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "NAFISA SHARIN NASYWA",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ALISHA NAILA MIZA",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "FAQIH NAZRIL KHALIF",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "FAHRIL RIZKY PRATAMA",
-      "pembimbingAwal": "USTADZAH DINDA",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "AMALIA PUTRI",
-      "pembimbingAwal": "USTADZ SYARIF",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID III",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. ALMAN BUDIANTO",
-      "pembimbingAwal": "USTADZAH DINDA",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID III",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "TRIYANA SAFITRI",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID III",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "NATANIA AISYAH NUHA ZAHIRA",
-      "pembimbingAwal": "USTADZ SYARIF",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID III",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. ZAINI ALFAT",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "KHALISA PUTRI",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "AISYAH RAIHANAH",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "NUR ALIYA TABINA",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. AQSAN MUSYAFA",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD AZHAR ALRISAM",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD AIDIL SYAFE'I",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD HABIBIE",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD AL FATIH RAMADHAN",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. HAUFAN HAZZA ABQORY",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ACHMAD SIDIQ ASSAMI",
-      "pembimbingAwal": "USTADZAH SHALATIYAH",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID V",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ALESHA KAYLA NADHIFA",
-      "pembimbingAwal": "USTADZAH SHALATIYAH",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID V",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "PUTRI NABILA AZZAHRA",
-      "pembimbingAwal": "USTADZAH SHALATIYAH",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID V",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ANANDITHA ASSYABIYA ISLAMI",
-      "pembimbingAwal": "USTADZAH SHALATIYAH",
-      "pembimbingBaru": "USTADZ THOHIR",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID V",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "RINDANG RIZKI ANANDA",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH DIAH",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ABDILLAH ALGHIFARI IBERAHIM",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZAH DIAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "NUR AMELIA NAZIHA",
-      "pembimbingAwal": "USTADZ SYARIF",
-      "pembimbingBaru": "USTADZAH DIAH",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "SALSABILA MUHTADIN",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH DIAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "RAIHANA AINUN MARDIAH",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZAH DIAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "VANNY NOOR AZZAHRA",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH DIAH",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "NUR AFIFAH",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH DIAH",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "WIRDA HALIMATUS SA'DIAH",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH DIAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD NAUFAL FAEYZA",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH DIAH",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUTIA NUR AZZAHRA",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZAH DIAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "SITI FADILLAH",
-      "pembimbingAwal": "USTADZ SYARIF",
-      "pembimbingBaru": "USTADZAH DIAH",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "AHMAD RAFFASYA ALFARIZI",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH DIAH",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ARUNA GHAISAN AL FATAH",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH DIAH",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD NATHAN IZQIAN RAHMAN",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH DINDA",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "KIRANA ALIFA HIBATILLAH",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH DINDA",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "NUR MIFTAHUL JANNAH",
-      "pembimbingAwal": "USTADZAH DINDA",
-      "pembimbingBaru": "USTADZAH DINDA",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID II",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "KUMALA AFIFA NAHDA RAFANDA",
-      "pembimbingAwal": "USTADZAH DINDA",
-      "pembimbingBaru": "USTADZAH DINDA",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID II",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ALIFIA NAVISHA",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZAH DINDA",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "RISKA NUR BAINAH",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZAH DINDA",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "FEBRIYANI",
-      "pembimbingAwal": "USTADZAH DINDA",
-      "pembimbingBaru": "USTADZAH DINDA",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID II",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD FAUZAN RAMADHANISH",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH DINDA",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD ADELLIO BRAMASTA",
-      "pembimbingAwal": "USTADZAH DINDA",
-      "pembimbingBaru": "USTADZAH DINDA",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID II",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD ALTHAF HAFIZY",
-      "pembimbingAwal": "USTADZAH DINDA",
-      "pembimbingBaru": "USTADZAH DINDA",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID II",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. RADEYA AL FARAZ",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH DINDA",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD ADNAN",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZAH DINDA",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID II",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD ALFA RIZQI  ",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZAH DINDA",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "NURAISYA YOANA AQILAH",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH DINDA",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD ARIF FADIL",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZAH DINDA",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID II",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD ZAKY RAMADHAN",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZAH DINDA",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. BILLY FIRDAUS",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID I",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD KHALIF AZKA",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID I",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "WIRDA NUR HASANAH",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID I",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. FATIH RISKY BARAKKA",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID I",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "AISYAH HUMAIRA",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID I",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "SYARIFAH SHIDQIA",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID I",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ALI RAYYAN RIZKY",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID I",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "FATHIN AULIA",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. KAHFI ARRAHMAN",
-      "pembimbingAwal": "USTADZAH DINDA",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID II",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD ARFAN",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "KAYSHA ALIFA DANESH",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "KHAIRUL SAPUTRA",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID II",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ARKAAN HARITH HAFI",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "NUR RAZIBVIA HANDAYANI",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID II",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. UMAR ZAFLAN ALHUDA",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID II",
-      "kelasBaru": "JILID II",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "RAQILA NUR FARZAN",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD ALFATIH",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "JAUHARATUN NAFISAH",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ABDULLAH ARAFAT ATTA",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD LUTFI SAPUTRA",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ALIFA MAULIDA",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ZAINA ALIFAH",
-      "pembimbingAwal": "USTADZAH EVI",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "NUR SAFANIYA",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH EVI",
-      "kelasAwal": "JILID I",
-      "kelasBaru": "JILID II",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "RAESHA YUMNA ADZKIA",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "RUSNI ADAM",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "IZZFAHIM ANAQI",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "GUSTI ALI M AR RAYYAN",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "HAVA HARAIDAN SAFIRA",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "SITI ZAFINA WAHYU AFIFAH",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD YUSUF",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD SAKHA AT THAHIR RAMADHAN",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUH. AL FATIH",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "RAYYA STARLA ADZKADINA",
-      "pembimbingAwal": "USTADZ SYARIF",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. FADILLAH RAMLAN",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "AYANA MUKHBITA MARYAM",
-      "pembimbingAwal": "USTADZ SYARIF",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "SASKIA ANASTASYA",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "HIDAYATUL AZKIA",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "AHMAD ZAIEN WAFA",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "HAFI AHMAD SUBAKTI",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. ROYYAN KHIAR ABQORY",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD ZAUFAN ALL BAKRIE",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD AMIN KUTBI",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ZAFRAN YAPIQ",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "AHMAD NAZAMUDDIN",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD NABIL ASY ARI",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "NABILA AFIQOH",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD FAHMI RAMADHAN",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M.AZKA APRILIO ADINATA PRASETYA",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD YUSUF RACHMAN",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "KHAIRA LUBNA ALTHAFUNNISA",
-      "pembimbingAwal": "USTADZ THOHIR",
-      "pembimbingBaru": "USTADZAH NISA",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. AZKA PUTRA",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ALLYSA HASYA AFIQAH",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "NUR 'AINA",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "AHMAD ZAINI DAHLAN",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "IQBAL MURISKI",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "DHAFIN ARYA ROSADI",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "PUTRI FENI",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "FARYZA ANNISA FITRIA",
-      "pembimbingAwal": "USTADZ SYARIF",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "KAYLA AZZAHRA RIFA'I ",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M. ZAYD RYS ALGHIFARI",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "GT. DAFA RISKY ADITIA",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ALSYAH NUR ALMIRA",
-      "pembimbingAwal": "USTADZ SYARIF",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD ROHIID AL ANIS",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID IV",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "NAILA AZKADINA",
-      "pembimbingAwal": "USTADZ SYARIF",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ALIFAH RAHMANTI PUTRI",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID III",
-      "kelasBaru": "JILID IV",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD ABIZHAR",
-      "pembimbingAwal": "USTADZAH DIAH",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "SYAILLA NUR RAMADHANI",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD LUTFAN ABID",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "LINGGA DANIS HAMINUDIN MURWANTO",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD DAFFA ARYA GHOSSAN",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ZAKIA ANIQ MUFLIHAH",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ADELIA ZAHRATUSSHOFA",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ANISA AZAHRA",
-      "pembimbingAwal": "JUNI WARDANI",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD FAJAR ALFANDI",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID IV",
-      "kelasBaru": "JILID V",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD LUTH NAUSHADAZKA",
-      "pembimbingAwal": "USTADZ TAHMID",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID V",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD IRSYAN GAZALI",
-      "pembimbingAwal": "USTADZAH NISA",
-      "pembimbingBaru": "USTADZAH SANAH",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID V",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "FATIMAH AL KHAIROH",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZAH SHALATIYAH",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "AHMAD AL FARIZQI",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZAH SHALATIYAH",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "FALYA ALIFA INDRAYANA",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZAH SHALATIYAH",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "NUR EFMA WAHIDHA",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZAH SHALATIYAH",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "KAYLA NURIYA RAHMAN",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZAH SHALATIYAH",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD DZAKI AFFANDI",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZAH SHALATIYAH",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "KA'AB AHMAD BUSTANI NUR",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZAH SHALATIYAH",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "MUHAMMAD ROYYANDI",
-      "pembimbingAwal": "USTADZAH SANAH",
-      "pembimbingBaru": "USTADZAH SHALATIYAH",
-      "kelasAwal": "JILID VI",
-      "kelasBaru": "JILID VI",
-      "predikat": "mengulang",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "PUTRI NUR ASSIFA",
-      "pembimbingAwal": "USTADZAH SHALATIYAH",
-      "pembimbingBaru": "USTADZAH SHALATIYAH",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "M.AZKA RIDLONI                ",
-      "pembimbingAwal": "USTADZAH SHALATIYAH",
-      "pembimbingBaru": "USTADZAH SHALATIYAH",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "AHMAD KEMAL REIS LIZUIRABIH",
-      "pembimbingAwal": "USTADZAH SHALATIYAH",
-      "pembimbingBaru": "USTADZAH SHALATIYAH",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ANDRA HARIYADI",
-      "pembimbingAwal": "USTADZAH SHALATIYAH",
-      "pembimbingBaru": "USTADZAH SHALATIYAH",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "AISYAH AQILAH",
-      "pembimbingAwal": "USTADZAH SHALATIYAH",
-      "pembimbingBaru": "USTADZAH SHALATIYAH",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
-    {
-      "nama": "ALIFA AZ-ZAHRA",
-      "pembimbingAwal": "USTADZAH SHALATIYAH",
-      "pembimbingBaru": "USTADZAH SHALATIYAH",
-      "kelasAwal": "JILID V",
-      "kelasBaru": "JILID VI",
-      "predikat": "melanjutkan",
-      "periode": "OKT - DES 24"
-    },
+  {
+    "nama": "GUSTI KHALID RAHMAN SADI'",
+    "pembimbingAwal": "USTADZAH DINDA",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AKIFAH NAYLA NURHIJRAH",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ALMIRA ZHAFIRA",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "FAUZA NUR RIZKY",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID III",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "RULITA AZZAHRA",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. ABYAN ARJUNA PASURA",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD DZIKRI BADZILA",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NAYSILLA NUR MAYDINI",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD MIRZA ALIANDRA",
+    "pembimbingAwal": "USTADZAH DINDA",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "RAYA NOVITA SARI",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD MAHDI YUSUF",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD AZKA RANENDRA",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID III",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NUR AULIA SAFITRI",
+    "pembimbingAwal": "USTADZAH DINDA",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "KHUMAIRA PUTRI ASY'ARI",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "RAISYA NUR AQIFA NAYLA",
+    "pembimbingAwal": "USTADZ SYARIF",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID III",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "JIHAN MAULIDA AZKIA",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID V",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AKHMAD HABIBIE",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID V",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "FAUZIAH",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID V",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD ALFAT KHAIRY",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD ALZHAFRAN FARDILA",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. REZA EFANSYAH",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "SYAFIRA ALFATHUNNISA",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID V",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD KHALIQ ALKHALIFY",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID V",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ZHAFIRA RASYIFA SALWA",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID V",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD FARIS RAMADHAN",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD HUD AR RAYYAN",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NUR ALIYA TABINA",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "HALIFA AISYABILLAH",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "SYAHILA AZMY",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "JUNI WARDANI",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "KEYRA ANDITA BALQIS",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZ HUSSAINI",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID QURAN",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ZULFA HUMAIRA",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZ SYARIF",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD RAIHAN HAFIZH",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZ SYARIF",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NADA NURANI ALIANSYAH",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZ SYARIF",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AGHNINA CARIESYA SIBARANI",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZ SYARIF",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "RUWAIDA FATIMAH RAHMADANI",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZ SYARIF",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "INDRA LESMANA",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZ SYARIF",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NADHIRA IMADINA ADIBA",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZ SYARIF",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "RAIHAN FERDIAN",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZ SYARIF",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. IQRAM SYARIF",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZ SYARIF",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ARSY PUTRA FIRMANSYAH",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZ SYARIF",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "FAJRIANSYAH",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZ SYARIF",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NAZIA ARSYIFA",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZ SYARIF",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "FAQIH GHANI KHAIRI",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZ SYARIF",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "SIRHAN FIKRI ROSIDI",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZ SYARIF",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ALYA IMANI",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZ SYARIF",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD AFDILLAH",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZ SYARIF",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "HAFIDZAH AZZAHRA",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZ SYARIF",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AYSHA NABILA PRANTAU",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MAULANA MALIK IBRAHIM",
+    "pembimbingAwal": "USTADZAH DINDA",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ALMAIRA NURFAUZIAH",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "HAFIZAH NUR AULIA",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. HAFIZH FATURRAHMAN",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ANDI ARSYILA HUMAIRA",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. ALI ZABER",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID III",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "REYNA AURELIA",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "FATIA AULIA ANNISA",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID III",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "RANGGA FARID RIZQULLAH",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "RENDRA MAHARDIKA",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID III",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. AFKAR PRATAMA",
+    "pembimbingAwal": "USTADZAH DINDA",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD RAYHAN",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID III",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ABDU RAHDIKA NAHRY",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD ARKHA AL FAIRUZ",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AHMAD AL-FATIH NUR ADABY",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ZAINAL ILMI",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID QURAN",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "FATIH YASIR MUBAROK",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID QURAN",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "SITI AISYAH",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID QURAN",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "DHAFITHA ZAYDA ALWI",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID QURAN",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AYSHA RAMADANI",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID QURAN",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ALFARIZKY MELAN PRATAMA",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID QURAN",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD HAIKAL BAGUS",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID QURAN",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD AL FATIH",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID QURAN",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AISYAH AFIFA A.",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID QURAN",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD AKBAR SAFARUDIN",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID QURAN",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ELSA RAIDA RAHMAWATI",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID QURAN",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "SITI ALYA HUMAIRO",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID QURAN",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD FIKRI",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID QURAN",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD RAFKA FAIZAR",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID QURAN",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD RASYID FAUZI",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZ TAHMID",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID QURAN",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. SULTHAN MALIK",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID III",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD TSAQIB HERSYA",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID III",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD NENO HERDIANA",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "BILQIS KHAIRUNNISA",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID III",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "HANIA SYAKIRA",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID III",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. RIFDHIL ARHAMY",
+    "pembimbingAwal": "USTADZAH DINDA",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD ADEB AL GAZALI",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "QONITA HANIFA ALMAHIRA",
+    "pembimbingAwal": "USTADZ SYARIF",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID III",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NAFISA SHARIN NASYWA",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ALISHA NAILA MIZA",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "FAQIH NAZRIL KHALIF",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "FAHRIL RIZKY PRATAMA",
+    "pembimbingAwal": "USTADZAH DINDA",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AMALIA PUTRI",
+    "pembimbingAwal": "USTADZ SYARIF",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID III",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. ALMAN BUDIANTO",
+    "pembimbingAwal": "USTADZAH DINDA",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID III",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NATANIA AISYAH NUHA ZAHIRA",
+    "pembimbingAwal": "USTADZ SYARIF",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID III",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "TRIANA SAFITRI",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID III",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. ZAINI ALFAT",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AISYAH RAIHANAH",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. AQSAN MUSYAFA",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD AZHAR ALRISAM",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD AIDIL SYAFE'I",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD HABIBIE",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD AL FATIH RAMADHAN",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. HAUFAN HAZZA ABQORY",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ALESHA KAYLA NADHIFA",
+    "pembimbingAwal": "USTADZAH SHALATIYAH",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID V",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "PUTRI NABILA AZZAHRA",
+    "pembimbingAwal": "USTADZAH SHALATIYAH",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID V",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ANANDITHA ASSYABIYA ISLAMI",
+    "pembimbingAwal": "USTADZAH SHALATIYAH",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID V",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ALMEERA NURUL RASYADA",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID V",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ACHMAD SIDIQ ASSAMI",
+    "pembimbingAwal": "USTADZAH SHALATIYAH",
+    "pembimbingBaru": "USTADZ THOHIR",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID V",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "RINDANG RIZKI ANANDA",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH DIAH",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ABDILLAH ALGHIFARI IBERAHIM",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZAH DIAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NUR AMELIA NAZIHA",
+    "pembimbingAwal": "USTADZ SYARIF",
+    "pembimbingBaru": "USTADZAH DIAH",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "SALSABILA MUHTADIN",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH DIAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "RAIHANA AINUN MARDIAH",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZAH DIAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "VANNY NOOR AZZAHRA",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH DIAH",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NUR AFIFAH",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH DIAH",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "WIRDA HALIMATUS SA'DIAH",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH DIAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD NAUFAL FAEYZA",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH DIAH",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUTIA NUR AZZAHRA",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZAH DIAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "SITI FADILLAH",
+    "pembimbingAwal": "USTADZ SYARIF",
+    "pembimbingBaru": "USTADZAH DIAH",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ARUNA GHAISAN AL FATAH",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH DIAH",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "RAESHA YUMNA ADZKIA",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH DIAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "GUSTI ALI M AR RAYYAN",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH DIAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD NATHAN IZQIAN RAHMAN",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH DINDA",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "KIRANA ALIFA HIBATILLAH",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH DINDA",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NUR MIFTAHUL JANNAH",
+    "pembimbingAwal": "USTADZAH DINDA",
+    "pembimbingBaru": "USTADZAH DINDA",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID II",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "KUMALA AFIFA NAHDA RAFANDA",
+    "pembimbingAwal": "USTADZAH DINDA",
+    "pembimbingBaru": "USTADZAH DINDA",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID II",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ALIFIA NAVISHA",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZAH DINDA",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "RISKA NUR BAINAH",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZAH DINDA",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "FEBRIYANI",
+    "pembimbingAwal": "USTADZAH DINDA",
+    "pembimbingBaru": "USTADZAH DINDA",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID II",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD FAUZAN RAMADHANISH",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH DINDA",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD ADELLIO BRAMASTA",
+    "pembimbingAwal": "USTADZAH DINDA",
+    "pembimbingBaru": "USTADZAH DINDA",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID II",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD ALTHAF HAFIZY",
+    "pembimbingAwal": "USTADZAH DINDA",
+    "pembimbingBaru": "USTADZAH DINDA",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID II",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. RADEYA AL FARAZ",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH DINDA",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD ADNAN",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZAH DINDA",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID II",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD ALFA RIZQI",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZAH DINDA",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NURAISYA YOANA AQILAH",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH DINDA",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD ARIF FADIL",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZAH DINDA",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID II",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD ZAKY RAMADHAN",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZAH DINDA",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. MAHASIN NOVAL",
+    "pembimbingAwal": "USTADZAH DINDA",
+    "pembimbingBaru": "USTADZAH DINDA",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID II",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. BILLY FIRDAUS",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID I",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD KHALIF AZKA",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID I",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "WIRDA NUR HASANAH",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID I",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. FATIH RISKY BARAKKA",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID I",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "SYARIFAH SHIDQIA",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID I",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ALI RAYYAN RIZKY",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID I",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "FATHIN AULIA",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. KAHFI ARRAHMAN",
+    "pembimbingAwal": "USTADZAH DINDA",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID II",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD ARFAN",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "KAYSHA ALIFA DANESH",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "KHAIRUL SAPUTRA",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID II",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ARKAAN HARITH HAFI",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NUR RAZIBVIA HANDAYANI",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID II",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. UMAR ZAFLAN ALHUDA",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID II",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "RAQILA NUR FARZAN",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD ALFATIH",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "JAUHARATUN NAFISAH",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ABDULLAH ARAFAT ATTA",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD LUTFI SAPUTRA",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ALIFA MAULIDA",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ZAINA ALIFAH",
+    "pembimbingAwal": "USTADZAH EVI",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NUR SAFANIYA",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID II",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. RASYID RAIHAN",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID II",
+    "kelasBaru": "JILID II",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AISYAH HUMAIRA (B)",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH EVI",
+    "kelasAwal": "JILID I",
+    "kelasBaru": "JILID I",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "RUSNI ADAM",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "IZZFAHIM ANAQI",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "HAVA HARAIDAN SAFIRA",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "SITI ZAFINA WAHYU AFIFAH",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD YUSUF",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD SAKHA AT THAHIR RAMADHAN",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUH. AL FATIH",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "RAYYA STARLA ADZKADINA",
+    "pembimbingAwal": "USTADZ SYARIF",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. FADILLAH RAMLAN",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AYANA MUKHBITA MARYAM",
+    "pembimbingAwal": "USTADZ SYARIF",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "SASKIA ANASTASYA",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "HIDAYATUL AZKIA",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AHMAD ZAIEN WAFA",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "HAFI AHMAD SUBAKTI",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. ROYYAN KHIAR ABQORY",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD ZAUFAN ALL BAKRIE",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD AMIN KUTBI",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ZAFRAN YAPIQ",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AHMAD NAZAMUDDIN",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD NABIL ASY ARI",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NABILA AFIQOH",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD FAHMI RAMADHAN",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M.AZKA APRILIO ADINATA PRASETYA",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD YUSUF RACHMAN",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "KHAIRA LUBNA ALTHAFUNNISA",
+    "pembimbingAwal": "USTADZ THOHIR",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AISHA ARSYIFA",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AHMAD RAFFASYA ALFARIZI",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH NISA",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. AZKA PUTRA",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ALLYSA HASYA AFIQAH",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NUR 'AINA",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AHMAD ZAINI DAHLAN",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "IQBAL MURISKI",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "DHAFIN ARYA ROSADI",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "PUTRI FENI",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "FARYZA ANNISA FITRIA",
+    "pembimbingAwal": "USTADZ SYARIF",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "KAYLA AZZAHRA RIFA'I",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. ZAYD RYS ALGHIFARI",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "GT. DAFA RISKY ADITIA",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ALSYAH NUR ALMIRA",
+    "pembimbingAwal": "USTADZ SYARIF",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD ROHIID AL ANIS",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID IV",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NAILA AZKADINA",
+    "pembimbingAwal": "USTADZ SYARIF",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ALIFAH RAHMANTI PUTRI",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID III",
+    "kelasBaru": "JILID IV",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD ABIZHAR",
+    "pembimbingAwal": "USTADZAH DIAH",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "SYAILLA NUR RAMADHANI",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD LUTFAN ABID",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "LINGGA DANIS HAMINUDIN MURWANTO",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD DAFFA ARYA GHOSSAN",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ZAKIA ANIQ MUFLIHAH",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ADELIA ZAHRATUSSHOFA",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ANISA AZAHRA",
+    "pembimbingAwal": "JUNI WARDANI",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD FAJAR ALFANDI",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD LUTH NAUSHADAZKA",
+    "pembimbingAwal": "USTADZ TAHMID",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID V",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD IRSYAN GAZALI",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID V",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "KHALISA PUTRI",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZAH SANAH",
+    "kelasAwal": "JILID IV",
+    "kelasBaru": "JILID V",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "FATIMAH AL KHAIROH",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZAH SHALATIYAH",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AHMAD AL FARIZQI",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZAH SHALATIYAH",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "KIOSI ALTAF",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZAH SHALATIYAH",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "FALYA ALIFA INDRAYANA",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZAH SHALATIYAH",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NUR EFMA WAHIDHA",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZAH SHALATIYAH",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "KAYLA NURIYA RAHMAN",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZAH SHALATIYAH",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD DZAKI AFFANDI",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZAH SHALATIYAH",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "KA'AB AHMAD BUSTANI NUR",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZAH SHALATIYAH",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "MUHAMMAD ROYYANDI",
+    "pembimbingAwal": "USTADZAH SANAH",
+    "pembimbingBaru": "USTADZAH SHALATIYAH",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "PUTRI NUR ASSIFA",
+    "pembimbingAwal": "USTADZAH SHALATIYAH",
+    "pembimbingBaru": "USTADZAH SHALATIYAH",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "M. AZKA RIDLONI",
+    "pembimbingAwal": "USTADZAH SHALATIYAH",
+    "pembimbingBaru": "USTADZAH SHALATIYAH",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AHMAD KEMAL REIS LIZUIRABIH",
+    "pembimbingAwal": "USTADZAH SHALATIYAH",
+    "pembimbingBaru": "USTADZAH SHALATIYAH",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ANDRA HARIYADI",
+    "pembimbingAwal": "USTADZAH SHALATIYAH",
+    "pembimbingBaru": "USTADZAH SHALATIYAH",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "AISYAH AQILAH",
+    "pembimbingAwal": "USTADZAH SHALATIYAH",
+    "pembimbingBaru": "USTADZAH SHALATIYAH",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "ALIFA AZ-ZAHRA",
+    "pembimbingAwal": "USTADZAH SHALATIYAH",
+    "pembimbingBaru": "USTADZAH SHALATIYAH",
+    "kelasAwal": "JILID V",
+    "kelasBaru": "JILID VI",
+    "predikat": "melanjutkan",
+    "periode": "OKT - DES 25"
+  },
+  {
+    "nama": "NADINE MIKAYLA SANDRIA",
+    "pembimbingAwal": "USTADZAH NISA",
+    "pembimbingBaru": "USTADZAH SHALATIYAH",
+    "kelasAwal": "JILID VI",
+    "kelasBaru": "JILID VI",
+    "predikat": "mengulang",
+    "periode": "OKT - DES 25"
+  },
     {
       "nama": "MUHAMMAD UMAR ZAFLAN",
       "pembimbingAwal": "USTADZAH ASTRID",
@@ -2032,7 +2095,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "SYAHILA AZMI",
@@ -2041,7 +2104,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NUR RAZIBVIA HANDAYANI",
@@ -2050,7 +2113,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "KHAIRUL SAPUTRA",
@@ -2059,7 +2122,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD ARKHA AL FAIRUZT",
@@ -2068,7 +2131,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD ARIF FADIL",
@@ -2077,7 +2140,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. MAHASIN NOVAL",
@@ -2086,7 +2149,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DINDA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MAULANA MALIK IBRAHIM",
@@ -2095,7 +2158,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DINDA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD ADELIO BRAMASTA",
@@ -2104,7 +2167,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DINDA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. RIFDHIL ARHAMY",
@@ -2113,7 +2176,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DINDA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NUR MIFTAHUL JANNAH",
@@ -2122,7 +2185,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DINDA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD ALTHAF HAFIZY",
@@ -2131,7 +2194,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DINDA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "FAHRIL RIZKY PRATAMA",
@@ -2140,7 +2203,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DINDA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "WIRDA NUR HASANAH",
@@ -2149,7 +2212,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NUR AISYAH HUMAIRA",
@@ -2158,7 +2221,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. ZAKY RAMADHAN",
@@ -2167,7 +2230,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "FATHIN AULIA",
@@ -2176,7 +2239,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. LUTHFI SAPUTRA",
@@ -2185,7 +2248,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ALIFIA NAVISHA",
@@ -2194,7 +2257,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "SYARIFAH SHIDQIYA",
@@ -2203,7 +2266,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. ARKHAN R.",
@@ -2212,7 +2275,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ALI RAYYAN RIZKY",
@@ -2221,7 +2284,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AFIQAH NAILA",
@@ -2230,7 +2293,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. ARFAN",
@@ -2239,7 +2302,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ABDULLAH ARAFAT ATTA",
@@ -2248,7 +2311,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "RISKA NUR BAINAH",
@@ -2257,7 +2320,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD ALFA RIZQI  ",
@@ -2266,7 +2329,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "⁠ARKAAN HARITH HAFI",
@@ -2275,7 +2338,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ZAINA ALIFAH",
@@ -2284,7 +2347,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AFFABIAN MUSYAFA AHMAD ",
@@ -2293,7 +2356,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ABDU RAHDIKA NAHRY",
@@ -2302,7 +2365,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AHMAD AL FATIH NUR ADABI",
@@ -2311,7 +2374,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. MAHDI YUSUF",
@@ -2320,7 +2383,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. ABYAN ARJUNA PASURA",
@@ -2329,7 +2392,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "REYNA AURELIA",
@@ -2338,7 +2401,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD ADEB AL GAZALI",
@@ -2347,7 +2410,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NAFISA SHARIN NASYWA",
@@ -2356,7 +2419,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "HAFIZAH NUR AULIA",
@@ -2365,7 +2428,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID I",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. SULTHAN MALIK",
@@ -2374,7 +2437,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ARUNA GHAISAN",
@@ -2383,7 +2446,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD AZKA RANENDRA",
@@ -2392,7 +2455,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "GT. DAFA",
@@ -2401,7 +2464,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "QONITA HANIFA ALMAHIRA",
@@ -2410,7 +2473,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ALSYAH NUR ALMIRA",
@@ -2419,7 +2482,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "SITI FADILLAH",
@@ -2428,7 +2491,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "RAISYA NUR AQIFA NAYLA",
@@ -2437,7 +2500,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NAILA AZKADINA",
@@ -2446,7 +2509,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NUR AMELIA NAZIHA",
@@ -2455,7 +2518,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "FAYZA ANNISA FITRIA",
@@ -2464,7 +2527,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. ZAYD RYS ALGHIFARI",
@@ -2473,7 +2536,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ALIFAH RAHMANTI PUTRI",
@@ -2482,7 +2545,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. AL FATIH",
@@ -2491,7 +2554,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "IZZFAHIM ANAQI",
@@ -2500,7 +2563,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "BILQIS KHAIRUNNISA",
@@ -2509,7 +2572,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AHMAD RAFFASYA",
@@ -2518,7 +2581,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NUR AFIFAH",
@@ -2527,7 +2590,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. FADILLAH RAMLAN",
@@ -2536,7 +2599,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD YUSUF",
@@ -2545,7 +2608,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. RASYID RAIHAN",
@@ -2554,7 +2617,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ALISHA NAILA MIZA",
@@ -2563,7 +2626,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M.HAFIZH FATURRAHMAN",
@@ -2572,7 +2635,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "RAYA NOVITASARI",
@@ -2581,7 +2644,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AKIFAH NAYLA NURHIJRAH",
@@ -2590,7 +2653,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "RULITA AZZAHRA",
@@ -2599,7 +2662,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD ARSHAD AL FATIH ASTADIWANGSA",
@@ -2608,7 +2671,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "RAFFA MULYATAMA SARAGIH",
@@ -2617,7 +2680,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD MIRZA ALIANDRA",
@@ -2626,7 +2689,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DINDA",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. KAHFI ARRAHMAN",
@@ -2635,7 +2698,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DINDA",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "GUSTI KHALID RAHMAN SADI'",
@@ -2644,7 +2707,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DINDA",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "KUMALA AFIFA NAHDA RAFANDA",
@@ -2653,7 +2716,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DINDA",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NUR AULIA SAFITRI",
@@ -2662,7 +2725,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DINDA",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "RIZKY NUR AQILLA",
@@ -2671,7 +2734,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DINDA",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "FEBRIYANI",
@@ -2680,7 +2743,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DINDA",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. ALMAN. B",
@@ -2689,7 +2752,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DINDA",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AYSHA NABILA PRANTAU",
@@ -2698,7 +2761,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NAYSILLA NUR MAYDINI",
@@ -2707,7 +2770,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ALMIRA ZHAPIRA",
@@ -2716,7 +2779,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "KHUMAIRA PUTRI ASY'ARI      ",
@@ -2725,7 +2788,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ANDI ARSYILA HUMAIRA",
@@ -2734,7 +2797,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ALMAIRA NURFAUZIAH",
@@ -2743,7 +2806,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH EVI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID II",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD RAYHAN",
@@ -2752,7 +2815,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ALIFA AZKA DINA",
@@ -2761,7 +2824,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "SARAH AZMIRA",
@@ -2770,7 +2833,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "FATIA AULIA ANNISA",
@@ -2779,7 +2842,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "⁠MUHAMMAD TSAQIB HERSYA",
@@ -2788,16 +2851,16 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
-      "nama": "TRIYANA SAFITRI",
+      "nama": "TRIANA SAFITRI",
       "pembimbingAwal": "USTADZAH EVI",
       "kelasBaru": "JILID III",
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "RINDANG RIZKI ANANDA",
@@ -2806,7 +2869,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. ALI ZABER",
@@ -2815,7 +2878,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "⁠RENDRA MAHARDIKA",
@@ -2824,7 +2887,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "RAESHA YUMNA ADZKIA",
@@ -2833,7 +2896,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "HAVA HARAIDAN SAFIRA",
@@ -2842,7 +2905,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. AZKA PUTRA",
@@ -2851,7 +2914,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NATANIA AISYAH NUHA ZAHIRA",
@@ -2860,7 +2923,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Mengulang",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AMALIA PUTRI",
@@ -2869,7 +2932,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Mengulang",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "RAISA DINAR",
@@ -2878,7 +2941,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Mengulang",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AYANA MUKHBITA MARYAM",
@@ -2887,7 +2950,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Mengulang",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "RAYYA STARLA ADZKADINA",
@@ -2896,7 +2959,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Mengulang",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "FAUZA NUR RIZKY",
@@ -2905,7 +2968,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Mengulang",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD NAUFAL FAEYZA",
@@ -2914,7 +2977,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Mengulang",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD ALZHAFRAN FARDILA",
@@ -2923,7 +2986,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD ALFAT KHAIRY",
@@ -2932,7 +2995,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ABDILLAH ALGHIFARI IBERAHIM",
@@ -2941,7 +3004,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AHMAD ZAINI DAHLAN",
@@ -2950,7 +3013,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD SAKHA AT THAHIR RAMADHAN",
@@ -2959,7 +3022,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "RUSNI ADAM",
@@ -2968,7 +3031,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "RAIHANA AINUN MARDIAH",
@@ -2977,7 +3040,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. AQSAN MUSYAFA",
@@ -2986,7 +3049,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUTIA NUR AZZAHRA",
@@ -2995,7 +3058,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD AZHAR ALRISAM",
@@ -3004,7 +3067,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD AIDIL SYAFE'I",
@@ -3013,7 +3076,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M.HAUFANHAZZA ABQORY",
@@ -3022,7 +3085,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID III",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "GUSTI ALI M AR RAYYAN",
@@ -3031,7 +3094,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "SYAILLA NUR RAMADHANI",
@@ -3040,7 +3103,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ALLYSA HASYA AFIQAH",
@@ -3049,7 +3112,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "LINGGA DANIS HAMINUDIN MURWANTO",
@@ -3058,7 +3121,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ZAKIA ANIQ MUFLIHAH",
@@ -3067,7 +3130,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD LUTFAN ABID",
@@ -3076,7 +3139,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. DAFFA ARYA GHOSSAN",
@@ -3085,7 +3148,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "WIRDA HALIMATUS SA'DIAH",
@@ -3094,7 +3157,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ADELIA ZAHRATUSSHOFA",
@@ -3103,7 +3166,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. Reza Efansyah",
@@ -3112,7 +3175,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "JUNI WARDANI",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD LUTH NAUSHADAZKA",
@@ -3121,7 +3184,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD AMIN KUTBI",
@@ -3130,7 +3193,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. ROYYAN KHIAR ABQORY",
@@ -3139,7 +3202,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD ZAUFAN ALL BAKRIE",
@@ -3148,7 +3211,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "HIDAYATUL AZKIA",
@@ -3157,7 +3220,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ZAFRAN YAPIQ",
@@ -3166,7 +3229,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "JIHAN MAULIDA AZKIA",
@@ -3175,7 +3238,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD NABIL ASY ARI",
@@ -3184,7 +3247,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "HAFI AHMAD SUBAKTI",
@@ -3193,7 +3256,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AKHMAD HABIBIE",
@@ -3202,7 +3265,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "DHAFIN ARYA ROSADI",
@@ -3211,7 +3274,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NUR 'AINA",
@@ -3220,7 +3283,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NUR ALIYA TABINA",
@@ -3229,7 +3292,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD ROHIID AL ANIS",
@@ -3238,7 +3301,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "⁠MUHAMMAD ABISAR",
@@ -3247,7 +3310,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "⁠IQBAL MURISKI",
@@ -3256,7 +3319,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "KAYLA ATIIQAH SARI",
@@ -3265,7 +3328,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH DIAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "RAIHAN FERDIAN",
@@ -3274,7 +3337,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AGHNINA CARIESYA SIBARANI",
@@ -3283,7 +3346,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "RUWAIDA FATIMAH RAHMADANI",
@@ -3292,7 +3355,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AZIZAH NUR APRILIANI",
@@ -3301,7 +3364,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. IQRAM SYARIF",
@@ -3310,7 +3373,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "SYAFIRA ALFATHUNNISA",
@@ -3319,7 +3382,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NADHIFA AYU FAIQAH",
@@ -3328,7 +3391,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NADA NURANI ALIANSYAH",
@@ -3337,7 +3400,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ALMEERA NURUL RASYADA",
@@ -3346,7 +3409,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD FARIS RAMADHAN",
@@ -3355,7 +3418,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD FAJAR ALFANDI",
@@ -3364,7 +3427,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD HUD AR RAYYAN",
@@ -3373,7 +3436,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "⁠AISYAH RAIHANAH",
@@ -3382,7 +3445,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. ZAINI ALFAT",
@@ -3391,7 +3454,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "KHALISA PUTRI",
@@ -3400,7 +3463,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD AL FATIH RAMADHAN",
@@ -3409,7 +3472,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ACHMAD SIDIQ ASSAM",
@@ -3418,7 +3481,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SHALATIYAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ANDRA HARIYADI",
@@ -3427,7 +3490,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SHALATIYAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD KHAFID ALKHALIF",
@@ -3436,7 +3499,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SHALATIYAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ANANDITHA ASSYABIYA ISLAMI",
@@ -3445,7 +3508,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SHALATIYAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ALIFA AZ-ZAHRA",
@@ -3454,7 +3517,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SHALATIYAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ALESHA KAYLA NADHIFA",
@@ -3463,7 +3526,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SHALATIYAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AHMAD KEMAL REIS LIZUIRABIH",
@@ -3472,7 +3535,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SHALATIYAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M.AZKA RIDLONI.                  ",
@@ -3481,7 +3544,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SHALATIYAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID IV",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "JAUDAH.",
@@ -3490,7 +3553,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ BAHAUDIN",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NADINE MIKAYLA SANDRIA.  ",
@@ -3499,7 +3562,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ BAHAUDIN",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "INDRA MAULANA",
@@ -3508,7 +3571,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ BAHAUDIN",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NAZIA ARSYIFA",
@@ -3517,7 +3580,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ BAHAUDIN",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "SAN ALI AHMAD",
@@ -3526,7 +3589,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Mengulang",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AHMAD ZAIEN WAFA",
@@ -3535,7 +3598,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Mengulang",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "FAUZIAH",
@@ -3544,7 +3607,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ TAHMID",
       "predikat": "Mengulang",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD ZIKRIE.  ",
@@ -3553,7 +3616,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ THOHIR",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "KHAIRA LUBNA ALTHAFUNNISA",
@@ -3562,7 +3625,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ THOHIR",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NABILA AFIQOH",
@@ -3571,7 +3634,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ THOHIR",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ZULFA HUMAIRA",
@@ -3580,7 +3643,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ THOHIR",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "⁠FATIH YASIR MUBAROK",
@@ -3589,7 +3652,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ THOHIR",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AYSHA RAMADANI",
@@ -3598,7 +3661,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ THOHIR",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD RAIHAN HAFIZH",
@@ -3607,7 +3670,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ THOHIR",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ALFARIZKY MELAN PRATAMA",
@@ -3616,7 +3679,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ THOHIR",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ZAINAL ILMI",
@@ -3625,7 +3688,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ THOHIR",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "SITI AISYAH",
@@ -3634,7 +3697,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ THOHIR",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD YUSUF RACHMAN",
@@ -3643,7 +3706,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ THOHIR",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "HAFIDZAH AZZAHRA",
@@ -3652,7 +3715,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ THOHIR",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ALTHAF BASYA MISYARAJA",
@@ -3661,7 +3724,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Mengulang",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD IRSYAN GAZALI",
@@ -3670,7 +3733,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Mengulang",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "KIOSI ALTAF",
@@ -3679,7 +3742,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Mengulang",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ZHAFIRA RASYIFA SALWA",
@@ -3688,7 +3751,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Mengulang",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "SASKIA ANASTASYA",
@@ -3697,7 +3760,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Mengulang",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD AL FATIH.  ",
@@ -3706,7 +3769,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AISYAH AFIFA A.",
@@ -3715,7 +3778,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "INDRA LESMANA",
@@ -3724,7 +3787,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD HAIKAL BAGUS",
@@ -3733,7 +3796,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "FAJRIANSYAH",
@@ -3742,7 +3805,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "⁠KEYRA ANDITA BALQIS",
@@ -3751,7 +3814,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ARSY PUTRA FIRMANSYAH",
@@ -3760,7 +3823,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NADHIRA IMADINA ADIBA",
@@ -3769,7 +3832,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AISHA ARSYIFA",
@@ -3778,7 +3841,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD FIKRI.  ",
@@ -3787,7 +3850,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD DZAKI AFFANDI.",
@@ -3796,7 +3859,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "FATIMAH AL KHAIROH",
@@ -3805,7 +3868,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NUR EFMA WAHIDHA",
@@ -3814,7 +3877,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "KAYLA NURIYA RAHMAN",
@@ -3823,7 +3886,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AHMAD AL FARIZQI",
@@ -3832,7 +3895,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ELSA RAIDA RAHMAWATI",
@@ -3841,7 +3904,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD RAFKA FAIZAR",
@@ -3850,7 +3913,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ALYA IMANI",
@@ -3859,7 +3922,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "PUTRI NUR ASSIFA.",
@@ -3868,7 +3931,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SHALATIYAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AMIRA SYIFA AZ ZAHRA",
@@ -3877,7 +3940,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SHALATIYAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AISYAH AQILAH",
@@ -3886,7 +3949,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SHALATIYAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AHMAD NAZAMUDDIN",
@@ -3895,7 +3958,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SHALATIYAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "PUTRI NABILA AZZAHRA",
@@ -3904,7 +3967,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SHALATIYAH",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID V",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. NOR RAHMAN",
@@ -3913,7 +3976,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ BAHAUDIN",
       "predikat": "Mengulang",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ANDI RIZKI DAFA RAMADHAN",
@@ -3922,7 +3985,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ BAHAUDIN",
       "predikat": "Mengulang",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ZIKRA AMALIA",
@@ -3931,7 +3994,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ BAHAUDIN",
       "predikat": "Mengulang",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "GERRAD NAUVALAZKA",
@@ -3940,7 +4003,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ BAHAUDIN",
       "predikat": "Mengulang",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "DARIN ADELLIA AZ-ZAHRA",
@@ -3949,7 +4012,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ BAHAUDIN",
       "predikat": "Mengulang",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD TUBAGUS INDRA",
@@ -3958,7 +4021,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ HAIDIR",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD MUHAJIR ANSHORY",
@@ -3967,7 +4030,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ HUSSAINI",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "RAIHAN NURFAIZ",
@@ -3976,7 +4039,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ HUSSAINI",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AKHMAD VIQRI SAPUTRA",
@@ -3985,7 +4048,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SOFYAN",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M.HUSEIN ALFANI",
@@ -3994,7 +4057,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SOFYAN",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "SAID FAUZAN ROSIDI",
@@ -4003,7 +4066,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SOFYAN",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AZKA RAYYAN AGFA",
@@ -4012,7 +4075,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "SYAQILA SALSABILA SETIAWAN",
@@ -4021,7 +4084,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ANDI AISYAH AYUDIA INARA",
@@ -4030,7 +4093,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ARIANSYAH",
@@ -4039,7 +4102,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "SITI MAYSAROH",
@@ -4048,7 +4111,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "FAIZ HAZMI ANWARI",
@@ -4057,7 +4120,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AHMAD AZRIL RAZZAN RAHMATULLAH",
@@ -4066,7 +4129,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AZKIA FILZIA PUTRI",
@@ -4075,7 +4138,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MAULIDA FEBRIANI PUTRI",
@@ -4084,7 +4147,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "BARKATUL AULYA",
@@ -4093,7 +4156,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "AHMAD GALIH PRIHANDOWO",
@@ -4102,7 +4165,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M. DAFFA NURRAMDANI",
@@ -4111,7 +4174,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "GHAAZIYA LUBNAYYA",
@@ -4120,7 +4183,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "NUR ATHIFAH",
@@ -4129,7 +4192,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "ALIFA FATHIYYA HAMZAH",
@@ -4138,7 +4201,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "SELVIA KHAIRUN ASPIA",
@@ -4147,7 +4210,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ SYARIF",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "M.AZKA APRILIO ADINATA PRASETYA",
@@ -4156,7 +4219,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ THOHIR",
       "predikat": "Mengulang",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "DHAFITHA ZAYDA ALWI",
@@ -4165,7 +4228,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ THOHIR",
       "predikat": "Mengulang",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD FAHMI RAMADHAN",
@@ -4174,7 +4237,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZ THOHIR",
       "predikat": "Melanjutkan",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "FAQIH GHANI KHAIRI",
@@ -4183,7 +4246,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Mengulang",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "GUSTI ALIFIA KIRANA",
@@ -4192,7 +4255,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Mengulang",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD AFDILLAH",
@@ -4201,7 +4264,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Mengulang",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "SIRHAN FIKRI ROSIDI",
@@ -4210,7 +4273,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH NISA",
       "predikat": "Mengulang",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD ROYYANDI",
@@ -4219,7 +4282,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "SITI ALYA HUMAIRO",
@@ -4228,7 +4291,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "MUHAMMAD AKBAR SAFARUDIN",
@@ -4237,7 +4300,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "KA'AB AHMAD BUSTANI NUR",
@@ -4246,7 +4309,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     },
     {
       "nama": "FALYA ALIFA INDRAYANA",
@@ -4255,7 +4318,7 @@ window.munaqasyahData = {
       "pembimbingBaru": "USTADZAH SANAH",
       "predikat": "Mengulang",
       "kelasAwal": "JILID VI",
-      "periode": "JUL -SEP 24"
+      "periode": "JUL - SEP 24"
     }
     ]
 };
