@@ -7,7 +7,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AKIFAH NAYLA NURHIJRAH",
@@ -16,7 +16,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ALMIRA ZHAFIRA",
@@ -25,7 +25,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "FAUZA NUR RIZKY",
@@ -34,7 +34,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID III",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "RULITA AZZAHRA",
@@ -43,7 +43,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. ABYAN ARJUNA PASURA",
@@ -52,7 +52,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD DZIKRI BADZILA",
@@ -61,7 +61,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NAYSILLA NUR MAYDINI",
@@ -70,7 +70,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD MIRZA ALIANDRA",
@@ -79,7 +79,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "RAYA NOVITA SARI",
@@ -88,7 +88,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD MAHDI YUSUF",
@@ -97,7 +97,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD AZKA RANENDRA",
@@ -106,7 +106,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID III",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NUR AULIA SAFITRI",
@@ -115,7 +115,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "KHUMAIRA PUTRI ASY'ARI",
@@ -124,7 +124,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "RAISYA NUR AQIFA NAYLA",
@@ -133,7 +133,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID III",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "JIHAN MAULIDA AZKIA",
@@ -142,7 +142,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID V",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AKHMAD HABIBIE",
@@ -151,7 +151,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID V",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "FAUZIAH",
@@ -160,7 +160,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID V",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD ALFAT KHAIRY",
@@ -169,7 +169,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD ALZHAFRAN FARDILA",
@@ -178,7 +178,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. REZA EFANSYAH",
@@ -187,7 +187,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "SYAFIRA ALFATHUNNISA",
@@ -196,7 +196,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID V",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD KHALIQ ALKHALIFY",
@@ -205,7 +205,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID V",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ZHAFIRA RASYIFA SALWA",
@@ -214,7 +214,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID V",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD FARIS RAMADHAN",
@@ -223,7 +223,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD HUD AR RAYYAN",
@@ -232,7 +232,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NUR ALIYA TABINA",
@@ -241,7 +241,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "HALIFA AISYABILLAH",
@@ -250,7 +250,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "SYAHILA AZMY",
@@ -259,7 +259,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "KEYRA ANDITA BALQIS",
@@ -268,7 +268,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID QURAN",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ZULFA HUMAIRA",
@@ -277,7 +277,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD RAIHAN HAFIZH",
@@ -286,7 +286,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NADA NURANI ALIANSYAH",
@@ -295,7 +295,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AGHNINA CARIESYA SIBARANI",
@@ -304,7 +304,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "RUWAIDA FATIMAH RAHMADANI",
@@ -313,7 +313,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "INDRA LESMANA",
@@ -322,7 +322,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NADHIRA IMADINA ADIBA",
@@ -331,7 +331,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "RAIHAN FERDIAN",
@@ -340,7 +340,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. IQRAM SYARIF",
@@ -349,7 +349,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ARSY PUTRA FIRMANSYAH",
@@ -358,7 +358,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "FAJRIANSYAH",
@@ -367,7 +367,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NAZIA ARSYIFA",
@@ -376,7 +376,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "FAQIH GHANI KHAIRI",
@@ -385,7 +385,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "SIRHAN FIKRI ROSIDI",
@@ -394,7 +394,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ALYA IMANI",
@@ -403,7 +403,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD AFDILLAH",
@@ -412,7 +412,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "HAFIDZAH AZZAHRA",
@@ -421,7 +421,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AYSHA NABILA PRANTAU",
@@ -430,7 +430,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MAULANA MALIK IBRAHIM",
@@ -439,7 +439,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ALMAIRA NURFAUZIAH",
@@ -448,7 +448,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "HAFIZAH NUR AULIA",
@@ -457,7 +457,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. HAFIZH FATURRAHMAN",
@@ -466,7 +466,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ANDI ARSYILA HUMAIRA",
@@ -475,7 +475,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. ALI ZABER",
@@ -484,7 +484,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID III",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "REYNA AURELIA",
@@ -493,7 +493,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "FATIA AULIA ANNISA",
@@ -502,7 +502,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID III",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "RANGGA FARID RIZQULLAH",
@@ -511,7 +511,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "RENDRA MAHARDIKA",
@@ -520,7 +520,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID III",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. AFKAR PRATAMA",
@@ -529,7 +529,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD RAYHAN",
@@ -538,7 +538,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID III",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ABDU RAHDIKA NAHRY",
@@ -547,7 +547,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD ARKHA AL FAIRUZ",
@@ -556,7 +556,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AHMAD AL-FATIH NUR ADABY",
@@ -565,7 +565,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ZAINAL ILMI",
@@ -574,7 +574,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID QURAN",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "FATIH YASIR MUBAROK",
@@ -583,7 +583,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID QURAN",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "SITI AISYAH",
@@ -592,7 +592,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID QURAN",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "DHAFITHA ZAYDA ALWI",
@@ -601,7 +601,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID QURAN",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AYSHA RAMADANI",
@@ -610,7 +610,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID QURAN",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ALFARIZKY MELAN PRATAMA",
@@ -619,7 +619,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID QURAN",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD HAIKAL BAGUS",
@@ -628,7 +628,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID QURAN",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD AL FATIH",
@@ -637,7 +637,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID QURAN",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AISYAH AFIFA A.",
@@ -646,7 +646,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID QURAN",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD AKBAR SAFARUDIN",
@@ -655,7 +655,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID QURAN",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ELSA RAIDA RAHMAWATI",
@@ -664,7 +664,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID QURAN",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "SITI ALYA HUMAIRO",
@@ -673,7 +673,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID QURAN",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD FIKRI",
@@ -682,7 +682,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID QURAN",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD RAFKA FAIZAR",
@@ -691,7 +691,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID QURAN",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD RASYID FAUZI",
@@ -700,7 +700,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID QURAN",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. SULTHAN MALIK",
@@ -709,7 +709,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID III",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD TSAQIB HERSYA",
@@ -718,7 +718,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID III",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD NENO HERDIANA",
@@ -727,7 +727,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "BILQIS KHAIRUNNISA",
@@ -736,7 +736,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID III",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "HANIA SYAKIRA",
@@ -745,7 +745,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID III",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. RIFDHIL ARHAMY",
@@ -754,7 +754,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD ADEB AL GAZALI",
@@ -763,7 +763,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "QONITA HANIFA ALMAHIRA",
@@ -772,7 +772,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID III",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NAFISA SHARIN NASYWA",
@@ -781,7 +781,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ALISHA NAILA MIZA",
@@ -790,7 +790,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "FAQIH NAZRIL KHALIF",
@@ -799,7 +799,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "FAHRIL RIZKY PRATAMA",
@@ -808,7 +808,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AMALIA PUTRI",
@@ -817,7 +817,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID III",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. ALMAN BUDIANTO",
@@ -826,7 +826,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID III",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NATANIA AISYAH NUHA ZAHIRA",
@@ -835,7 +835,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID III",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "TRIANA SAFITRI",
@@ -844,7 +844,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID III",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. ZAINI ALFAT",
@@ -853,7 +853,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AISYAH RAIHANAH",
@@ -862,7 +862,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. AQSAN MUSYAFA",
@@ -871,7 +871,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD AZHAR ALRISAM",
@@ -880,7 +880,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD AIDIL SYAFE'I",
@@ -889,7 +889,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD HABIBIE",
@@ -898,7 +898,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD AL FATIH RAMADHAN",
@@ -907,7 +907,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. HAUFAN HAZZA ABQORY",
@@ -916,7 +916,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ALESHA KAYLA NADHIFA",
@@ -925,7 +925,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID V",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "PUTRI NABILA AZZAHRA",
@@ -934,7 +934,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID V",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ANANDITHA ASSYABIYA ISLAMI",
@@ -943,7 +943,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID V",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ALMEERA NURUL RASYADA",
@@ -952,7 +952,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID V",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ACHMAD SIDIQ ASSAMI",
@@ -961,7 +961,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID V",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "RINDANG RIZKI ANANDA",
@@ -970,7 +970,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ABDILLAH ALGHIFARI IBERAHIM",
@@ -979,7 +979,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NUR AMELIA NAZIHA",
@@ -988,7 +988,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "SALSABILA MUHTADIN",
@@ -997,7 +997,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "RAIHANA AINUN MARDIAH",
@@ -1006,7 +1006,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "VANNY NOOR AZZAHRA",
@@ -1015,7 +1015,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NUR AFIFAH",
@@ -1024,7 +1024,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "WIRDA HALIMATUS SA'DIAH",
@@ -1033,7 +1033,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD NAUFAL FAEYZA",
@@ -1042,7 +1042,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUTIA NUR AZZAHRA",
@@ -1051,7 +1051,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "SITI FADILLAH",
@@ -1060,7 +1060,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ARUNA GHAISAN AL FATAH",
@@ -1069,7 +1069,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "RAESHA YUMNA ADZKIA",
@@ -1078,7 +1078,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "GUSTI ALI M AR RAYYAN",
@@ -1087,7 +1087,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD NATHAN IZQIAN RAHMAN",
@@ -1096,7 +1096,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "KIRANA ALIFA HIBATILLAH",
@@ -1105,7 +1105,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NUR MIFTAHUL JANNAH",
@@ -1114,7 +1114,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID II",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "KUMALA AFIFA NAHDA RAFANDA",
@@ -1123,7 +1123,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID II",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ALIFIA NAVISHA",
@@ -1132,7 +1132,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "RISKA NUR BAINAH",
@@ -1141,7 +1141,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "FEBRIYANI",
@@ -1150,7 +1150,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID II",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD FAUZAN RAMADHANISH",
@@ -1159,7 +1159,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD ADELLIO BRAMASTA",
@@ -1168,7 +1168,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID II",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD ALTHAF HAFIZY",
@@ -1177,7 +1177,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID II",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. RADEYA AL FARAZ",
@@ -1186,7 +1186,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD ADNAN",
@@ -1195,7 +1195,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID II",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD ALFA RIZQI",
@@ -1204,7 +1204,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NURAISYA YOANA AQILAH",
@@ -1213,7 +1213,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD ARIF FADIL",
@@ -1222,7 +1222,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID II",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD ZAKY RAMADHAN",
@@ -1231,7 +1231,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. MAHASIN NOVAL",
@@ -1240,7 +1240,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID II",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. BILLY FIRDAUS",
@@ -1249,7 +1249,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID I",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD KHALIF AZKA",
@@ -1258,7 +1258,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID I",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "WIRDA NUR HASANAH",
@@ -1267,7 +1267,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID I",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. FATIH RISKY BARAKKA",
@@ -1276,7 +1276,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID I",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "SYARIFAH SHIDQIA",
@@ -1285,7 +1285,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID I",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ALI RAYYAN RIZKY",
@@ -1294,7 +1294,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID I",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "FATHIN AULIA",
@@ -1303,7 +1303,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. KAHFI ARRAHMAN",
@@ -1312,7 +1312,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID II",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD ARFAN",
@@ -1321,7 +1321,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "KAYSHA ALIFA DANESH",
@@ -1330,7 +1330,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "KHAIRUL SAPUTRA",
@@ -1339,7 +1339,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID II",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ARKAAN HARITH HAFI",
@@ -1348,7 +1348,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NUR RAZIBVIA HANDAYANI",
@@ -1357,7 +1357,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID II",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. UMAR ZAFLAN ALHUDA",
@@ -1366,7 +1366,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID II",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "RAQILA NUR FARZAN",
@@ -1375,7 +1375,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD ALFATIH",
@@ -1384,7 +1384,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "JAUHARATUN NAFISAH",
@@ -1393,7 +1393,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ABDULLAH ARAFAT ATTA",
@@ -1402,7 +1402,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD LUTFI SAPUTRA",
@@ -1411,7 +1411,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ALIFA MAULIDA",
@@ -1420,7 +1420,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ZAINA ALIFAH",
@@ -1429,7 +1429,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NUR SAFANIYA",
@@ -1438,7 +1438,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID II",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. RASYID RAIHAN",
@@ -1447,7 +1447,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID II",
     "kelasBaru": "JILID II",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AISYAH HUMAIRA (B)",
@@ -1456,7 +1456,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID I",
     "kelasBaru": "JILID I",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "RUSNI ADAM",
@@ -1465,7 +1465,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "IZZFAHIM ANAQI",
@@ -1474,7 +1474,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "HAVA HARAIDAN SAFIRA",
@@ -1483,7 +1483,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "SITI ZAFINA WAHYU AFIFAH",
@@ -1492,7 +1492,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD YUSUF",
@@ -1501,7 +1501,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD SAKHA AT THAHIR RAMADHAN",
@@ -1510,7 +1510,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUH. AL FATIH",
@@ -1519,7 +1519,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "RAYYA STARLA ADZKADINA",
@@ -1528,7 +1528,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. FADILLAH RAMLAN",
@@ -1537,7 +1537,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AYANA MUKHBITA MARYAM",
@@ -1546,7 +1546,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "SASKIA ANASTASYA",
@@ -1555,7 +1555,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "HIDAYATUL AZKIA",
@@ -1564,7 +1564,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AHMAD ZAIEN WAFA",
@@ -1573,7 +1573,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "HAFI AHMAD SUBAKTI",
@@ -1582,7 +1582,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. ROYYAN KHIAR ABQORY",
@@ -1591,7 +1591,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD ZAUFAN ALL BAKRIE",
@@ -1600,7 +1600,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD AMIN KUTBI",
@@ -1609,7 +1609,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ZAFRAN YAPIQ",
@@ -1618,7 +1618,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AHMAD NAZAMUDDIN",
@@ -1627,7 +1627,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD NABIL ASY ARI",
@@ -1636,7 +1636,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NABILA AFIQOH",
@@ -1645,7 +1645,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD FAHMI RAMADHAN",
@@ -1654,7 +1654,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M.AZKA APRILIO ADINATA PRASETYA",
@@ -1663,7 +1663,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD YUSUF RACHMAN",
@@ -1672,7 +1672,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "KHAIRA LUBNA ALTHAFUNNISA",
@@ -1681,7 +1681,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AISHA ARSYIFA",
@@ -1690,7 +1690,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AHMAD RAFFASYA ALFARIZI",
@@ -1699,7 +1699,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. AZKA PUTRA",
@@ -1708,7 +1708,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ALLYSA HASYA AFIQAH",
@@ -1717,7 +1717,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NUR 'AINA",
@@ -1726,7 +1726,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AHMAD ZAINI DAHLAN",
@@ -1735,7 +1735,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "IQBAL MURISKI",
@@ -1744,7 +1744,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "DHAFIN ARYA ROSADI",
@@ -1753,7 +1753,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "PUTRI FENI",
@@ -1762,7 +1762,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "FARYZA ANNISA FITRIA",
@@ -1771,7 +1771,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "KAYLA AZZAHRA RIFA'I",
@@ -1780,7 +1780,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. ZAYD RYS ALGHIFARI",
@@ -1789,7 +1789,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "GT. DAFA RISKY ADITIA",
@@ -1798,7 +1798,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ALSYAH NUR ALMIRA",
@@ -1807,7 +1807,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD ROHIID AL ANIS",
@@ -1816,7 +1816,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID IV",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NAILA AZKADINA",
@@ -1825,7 +1825,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ALIFAH RAHMANTI PUTRI",
@@ -1834,7 +1834,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID III",
     "kelasBaru": "JILID IV",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD ABIZHAR",
@@ -1843,7 +1843,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "SYAILLA NUR RAMADHANI",
@@ -1852,7 +1852,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD LUTFAN ABID",
@@ -1861,7 +1861,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "LINGGA DANIS HAMINUDIN MURWANTO",
@@ -1870,7 +1870,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD DAFFA ARYA GHOSSAN",
@@ -1879,7 +1879,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ZAKIA ANIQ MUFLIHAH",
@@ -1888,7 +1888,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ADELIA ZAHRATUSSHOFA",
@@ -1897,7 +1897,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ANISA AZAHRA",
@@ -1906,7 +1906,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD FAJAR ALFANDI",
@@ -1915,7 +1915,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD LUTH NAUSHADAZKA",
@@ -1924,7 +1924,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID V",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD IRSYAN GAZALI",
@@ -1933,7 +1933,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID V",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "KHALISA PUTRI",
@@ -1942,7 +1942,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID IV",
     "kelasBaru": "JILID V",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "FATIMAH AL KHAIROH",
@@ -1951,7 +1951,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AHMAD AL FARIZQI",
@@ -1960,7 +1960,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "KIOSI ALTAF",
@@ -1969,7 +1969,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "FALYA ALIFA INDRAYANA",
@@ -1978,7 +1978,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NUR EFMA WAHIDHA",
@@ -1987,7 +1987,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "KAYLA NURIYA RAHMAN",
@@ -1996,7 +1996,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD DZAKI AFFANDI",
@@ -2005,7 +2005,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "KA'AB AHMAD BUSTANI NUR",
@@ -2014,7 +2014,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "MUHAMMAD ROYYANDI",
@@ -2023,7 +2023,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "PUTRI NUR ASSIFA",
@@ -2032,7 +2032,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "M. AZKA RIDLONI",
@@ -2041,7 +2041,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AHMAD KEMAL REIS LIZUIRABIH",
@@ -2050,7 +2050,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ANDRA HARIYADI",
@@ -2059,7 +2059,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "AISYAH AQILAH",
@@ -2068,7 +2068,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "ALIFA AZ-ZAHRA",
@@ -2077,7 +2077,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID V",
     "kelasBaru": "JILID VI",
     "predikat": "melanjutkan",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
   {
     "nama": "NADINE MIKAYLA SANDRIA",
@@ -2086,7 +2086,7 @@ window.munaqasyahData = {
     "kelasAwal": "JILID VI",
     "kelasBaru": "JILID VI",
     "predikat": "mengulang",
-    "periode": "OKT - DES 25"
+    "periode": "OKT - DES 24"
   },
     {
       "nama": "MUHAMMAD UMAR ZAFLAN",
