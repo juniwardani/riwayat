@@ -361,6 +361,7 @@ window.munaqasyahData = {
     "periode": "OKT - DES 24"
   },
   {
+    
     "nama": "FAJRIANSYAH",
     "pembimbingAwal": "USTADZAH NISA",
     "pembimbingBaru": "USTADZ SYARIF",
@@ -1765,7 +1766,7 @@ window.munaqasyahData = {
     "periode": "OKT - DES 24"
   },
   {
-    "nama": "FARYZA ANNISA FITRIA",
+    "nama": "FAYZA ANNISA FITRIA",
     "pembimbingAwal": "USTADZ SYARIF",
     "pembimbingBaru": "USTADZAH SANAH",
     "kelasAwal": "JILID III",
@@ -1801,7 +1802,7 @@ window.munaqasyahData = {
     "periode": "OKT - DES 24"
   },
   {
-    "nama": "ALSYAH NUR ALMIRA",
+    "nama": "ALSYA NUR ALMIRA",
     "pembimbingAwal": "USTADZ SYARIF",
     "pembimbingBaru": "USTADZAH SANAH",
     "kelasAwal": "JILID III",
