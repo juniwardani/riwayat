@@ -75,6 +75,20 @@
       font-size: 14px;
     }
 
+    .search-bar button {
+      background: #2c4a6f;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    .search-bar button:hover {
+      background: #1a2f4d;
+    }
+
     .table-wrapper {
       background: white;
       border-radius: 8px;
@@ -281,6 +295,9 @@
         flex-direction: column;
       }
       
+      .search-bar button {
+        width: 100%;
+      }
 
       .pagination {
         flex-wrap: wrap;
@@ -318,6 +335,7 @@
 
     <div class="search-bar">
       <input type="text" placeholder="Cari berdasarkan nama santri..." minlength="3">
+
     </div>
 
     <div class="table-wrapper">
@@ -477,6 +495,7 @@
       }
 
       const searchInput = document.querySelector('.search-bar input');
+      const searchButton = document.querySelector('.search-bar button');
 
       function handleSearch() {
         const searchTerm = searchInput.value.toLowerCase();
